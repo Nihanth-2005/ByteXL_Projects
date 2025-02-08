@@ -22,7 +22,7 @@ This repository contains three C programs demonstrating fundamental concepts of 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Nihanth-2005/ByteXL_Projects.git
 
 2. Navigate to the project directory:
    ```bash
